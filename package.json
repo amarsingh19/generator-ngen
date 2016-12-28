@@ -1,6 +1,6 @@
 {
   "name": "generator-ngen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Yeoman generator to scaffold an angular 1.x application. It would install the required node and bower packages and get the basic app up-and-running in few minutes.",
   "keywords": [
     "yeoman-generator"
@@ -18,5 +18,9 @@
     "lodash": "^4.17.2",
     "yeoman-generator": "^0.24.1",
     "yosay": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amarsingh19/generator-ngen.git"
   }
 }
